@@ -12,7 +12,7 @@
 ---
 
 <!-- DESCRIBLE -->
-> **POO** - também conhecida como **Programação Orientada a Objetos** é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos.
+**POO** - também conhecida como **Programação Orientada a Objetos** é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos.
 
 ---
 
@@ -43,20 +43,49 @@
 
 <!-- SEMANA 03 -->
 >&#128311; **Semana 03**: Herança, Polimorfismo e Interfaces
->> Aula 05 - []()<br>
+>>> Revisitando Conhecimentos
+>> [DSOO - Desenvolvimento de Sistemas Orientadas a Objetos](https://www.youtube.com/watch?v=lZwb38iITWg)<br>
 >
->> Aula 06 - []()<br>
+>> Vídeo Apoio - [Herança e Polimorfismo - Parte I](https://www.youtube.com/watch?v=5WYOR9WlU38)<br>
 >
->> Aula 07 - []()<br>
+>> Vídeo Apoio - [Interfaces](https://www.youtube.com/watch?v=ulvdPX2htf0)<br>
+>
+>> Aula 05a - [Herança e Polimorfismo – parte 1](https://www.youtube.com/watch?v=cmxIBX44Uws)<br>
+>
+>> Aula 05b - [Herança e Polimorfismo – parte 2](https://www.youtube.com/watch?v=07SgD8JMHnY)<br>
+>
+>> Aula 06 - [Interfaces e Classes Abstratas](https://www.youtube.com/watch?v=bOZQ9q7WhaY)<br>
 
 <!-- SEMANA 04 -->
 >&#128310; **Semana 04**: Classes e Métodos Genéricos e Classes de Coleções em Java
->> Aula 08 - []()<br>
+>>> Revisitando Conhecimentos
+>> [Java - Classe ArrayList - Uma coleção de números inteiros](https://www.youtube.com/watch?v=s4GjwBWevEE)<br>
+>
+>> Vídeo Apoio - [Classes e métodos genéricos](https://www.youtube.com/watch?v=ulvdPX2htf0)<br>
+>
+>> Aula 07 - [Classes e Métodos Genéricos](https://www.youtube.com/watch?v=ufJkkwdw1C4)<br>
+>
+>> Aula 08 - [Coleções em Java – Parte 1](https://www.youtube.com/watch?v=vr581qxQ4SE)<br>
+>
+>> Aula 09 - [Coleções em Java – Parte 2](https://www.youtube.com/watch?v=WIUq0-JRM8A)<br>
 
 
 <!-- SEMANA 05 -->
 >&#128311; **Semana 05**: Conjuntos e Mapas
-
+>>> Revisitando Conhecimentos
+>> [Map in Java & HashMap example](https://www.youtube.com/watch?v=hgawTLk0o3Y)<br>
+>
+>> Vídeo Apoio - [Java - Estrutura de Dados - Listas](https://www.youtube.com/watch?v=XBo4whEZ958)<br>
+>
+>> Vídeo Apoio - [Java - Estrutura de Dados - Conjuntos](https://www.youtube.com/watch?v=UdPgHbJeHb8&t=2s)<br>
+>
+>> Vídeo Apoio - [Java - Estrutura de Dados - Mapas](https://www.youtube.com/watch?v=g3XHstsK3ZU&t=1s)<br>
+>
+>> Vídeo Apoio - [Java - Pacotes](https://www.youtube.com/watch?v=Fd0Q8bwkG8k&t=1s)<br>
+>
+>> Aula 10 - [Conjuntos](https://www.youtube.com/watch?v=TZm-hxppNhM)<br>
+>
+>> Aula 11 - [Mapas](https://www.youtube.com/watch?v=m-Vfco5-MXc)<br>
 
 <!-- SEMANA 06 -->
 >&#128310; **Semana 06**: Tratamento de Exceções
@@ -64,11 +93,6 @@
 
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Streams, Serialização e Deserialização de Objetos/Uso de Threads em Java e Programação Java para Redes de Computadores
-
-
-<!-- SEMANA 08 -->
->&#128310; **Semana 08**: Revisão
-
 
 
 ---
